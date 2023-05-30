@@ -1,0 +1,281 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+    background-color: rgb(16, 8, 8);
+}
+
+/* Here styling for navbar */
+.custom-nav-link{
+    color: #000000 !important;
+    font-family: "Roboto" !important;
+}
+
+/* Here styling for  section background */
+.banner-section-bg-container{
+    height: 85vh;
+    background-image: url("https://media.istockphoto.com/id/1165399909/photo/delicious-meal-on-a-black-plate-top-view-copy-space.jpg?s=170667a&w=0&k=20&c=IMgtTaCu6B0qipvWq9GkDnolryQmyOvfCrlJtgdU3hU=");
+    background-size: cover;
+}
+
+/* Here styling for banner */
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption{
+    color: aliceblue;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 100px;
+}
+
+/* Here styling for banner button */
+.custom-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button{
+    width: 130px;
+    height: 45px;
+    color: #dcc84a;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ebdfa1;
+    border-radius: 8px;
+}
+
+/* Here styling for why choose us section */
+
+.wcu-section{
+    background-color: #ffffff;
+}
+
+.wcu-section-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 26px;
+    color: #183b56;
+}
+
+.wcu-sec-discription{
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #5a7184;
+}
+
+.wcu-card{
+    background-color: #e5e2d3;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 16px;
+    border-color: #9fbffe;
+}
+
+.wcu-card-title{
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 22px;
+    color: #323f4b;
+}
+
+.wcu-card-discription{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #7b8794;
+}
+
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+/* Here styling for Explore menu section */
+
+.ex-me-section{
+    background-color: rgb(241, 243, 245);
+}
+
+.ex-me-main-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.ex-me-card{
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.ex-me-card-image{
+    border-radius: 16px;
+    height:200px;
+    width: 100%;
+}
+
+.menu-card-title{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 19px;
+}
+
+.menu-item-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+/* Styling of Healthy food section */
+
+.healthy-food-section{
+    background-color: aliceblue;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+
+
+/* Styling for dilivery and payment sectrion */
+.delivery-and-payment-section{
+    background-color: #ffffff;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+
+/* Styling for thanking customer section */
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+
+/* Styling for follow us section */
+.follow-us-section{
+    background-color: #ffffff;
+}
+
+.follow-us-main-heading{
+    color: black;
+    font-family: "Roboto";
+    font-weight: bolder;
+
+}
+
+/* Styling for icon */
+
+.icon{
+    color: #d0b200;
+    font-size: 55px;
+}
+
+.follow-us-icon-container{
+    width: 90px;
+    height: 90px;
+    background-color: #faf7e8;
+    padding-right: 22px;
+    padding-left: 20px;
+    padding-top: 22px;
+    padding-bottom: 24px;
+    margin: 15px;
+    border-radius: 40px;
+
+}
+
+
+/* Here styling for footer section */
+
+.footer-section {
+    background-color: #0d2436;
+}
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
