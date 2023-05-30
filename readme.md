@@ -1,6 +1,6 @@
 # Responsive Web Page
 
-This project is a responsive web page that adapts to different screen sizes and devices. It utilizes HTML, CSS, and JavaScript to create a fluid and flexible layout.
+This project is a responsive web page that adapts to different screen sizes and devices. It utilizes HTML, CSS to create a fluid and flexible layout.
 
 ## Technologies Used
 
