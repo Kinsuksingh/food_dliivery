@@ -1,4 +1,4 @@
-# Responsive Web Page
+# Responsive WebPage
 
 This project is a responsive web page that adapts to different screen sizes and devices. It utilizes HTML, CSS to create a fluid and flexible layout.
 
